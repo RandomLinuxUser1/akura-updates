@@ -1,3 +1,9 @@
+# bc16a6a
+
+- Fixed the assistant sometimes not using its tools at all, one slow model could quietly kill the whole attempt, it now tries the others properly
+- Llama 3.3 70B is currently slow and unreliable, it is no longer picked automatically, only if you choose it yourself in Settings
+- Added optional reverse image search for identifying anime, manga and game characters, needs your own free saucenao.com key to turn on
+
 # 0696442
 
 - The assistant can now find real images and show them right in the chat
