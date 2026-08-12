@@ -1,3 +1,15 @@
+# 41e5e26
+
+- The assistant can now actually search the web and read pages, it will no longer tell you it cannot browse
+- It can look at images you attach, and can open parts of Akura for you when you ask
+- A small router model picks which main model answers on Auto, instead of always trying the same order
+- Real math rendering, write $x^2$ or $$\frac{a}{b}$$ and it renders properly
+- Streaming feels lighter on slower devices, especially noticeable on Chromebooks
+- Chat bubbles reworked to read more like a typical chat app
+- Chats can be renamed from the sidebar
+- The model name is no longer shown in the AI header
+- New site-wide right click menu, proxied pages keep their own
+
 # 2abed57
 
 - Only the travelling light on the search bar glows now, instead of the whole field lighting up
