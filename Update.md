@@ -1,3 +1,10 @@
+# 0696442
+
+- The assistant can now find real images and show them right in the chat
+- It can also generate brand new images from a description
+- Both show up as soon as they are ready, not just after the assistant finishes typing
+- Generated images are saved so they are still there if you come back to that chat later
+
 # 41e5e26
 
 - The assistant can now actually search the web and read pages, it will no longer tell you it cannot browse
