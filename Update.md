@@ -1,0 +1,72 @@
+# 2abed57
+
+- Only the travelling light on the search bar glows now, instead of the whole field lighting up
+- Tightened the lit arc so it reads as one light moving around the rim
+
+# 18a1ab2
+
+- The light circles the search bar at all times and brightens when you focus the field
+- Performance mode keeps the rim but holds it still
+
+# 0515e7e
+
+- The search field is a pill with a light travelling around its rim
+- Quick apps answer to the number keys, press 1 to 9, or hold Alt to see which is which
+- Section headings carry a small accent tick
+- New "Clear all data" in Settings, Data. It wipes local storage, cookies, databases, caches and
+  the service worker for Akura and for every site opened through it. It confirms twice and cannot
+  be undone
+- Databases still held open when the wipe runs are finished on the next load, before anything can
+  reopen them
+
+# 0c6a701
+
+- Removed the splash line under the wordmark
+
+# ada3a28
+
+- Fixed dropdowns being cut off when opened inside a settings panel
+- Dropdowns flip above the button when there is no room below them
+- Model names are never truncated, the menu grows to fit them instead
+
+# 7718507
+
+- Default theme is Akura lavender again, the way it was before
+- The emerald palette lives on as its own theme, Verdant, so nothing was lost
+- A slow accent haze drifts behind the starfield
+- A hand drawn swash sits under the wordmarks
+- Quick app icons sit on rounded plates that light up on hover
+- Every panel catches light along its top edge
+- The footer shows whether a proxy relay is actually connected
+- Every dropdown is custom now, with keyboard control and no native select anywhere
+- Site icons are on by default, fall back across providers, and drop to a lettered tile if a
+  provider stalls instead of leaving an empty square
+
+# 1ae584c
+
+- Rebuilt the interface around a script wordmark, a centred search field and a Quick apps grid
+- Home search goes straight to the built in browser
+- New command palette on Ctrl+K across apps, sites, games and settings
+- Settings is a full page now instead of a cramped modal
+- Added Light, Dark and System modes
+- Eight colour themes to pick from
+- New games page with search, category filter, favourites and lazy loaded covers
+- Quick apps are editable, and the starfield can be switched off on slower devices
+- Browsing history and bookmarks, both stored only on this device
+- The assistant falls back automatically when a model is busy or unreachable
+- Pick a specific model in Settings, or leave it on Auto
+- Answers stream in token by token instead of rebuilding the whole message each time
+- Added a Stop button, Regenerate, and per message Copy
+- Conversations are saved, so a refresh no longer wipes the chat, and you can keep several going
+- Reasoning models get a collapsible thinking panel, and every reply shows animated dots while it
+  waits
+- Markdown is rendered by a built in parser that escapes HTML before it parses, closing a hole
+  where model output was written straight into the page
+- Formatting still works on locked down networks
+- Failures now appear as an inline error instead of hanging on a typing indicator
+- Ad blocking actually works now. The setting was read in a place it could never be read from, so
+  the toggle had never done anything
+- Each browser tab tracks its own retry state, so one tab's error no longer cancels another's check
+- Reloading a proxied site no longer inherits a stale timer that hid the loading screen early
+- Site icons are drawn locally by default, with no third party lookup on every card
+- Removed two settings toggles that were stored but never actually used
