@@ -1,3 +1,18 @@
+# 63fe716
+
+- Fixed a real bypass: reaching Settings during the split second before load finished and hitting back to Akura skipped the password entirely
+- The footer no longer flashes visible for a frame before the password gate is checked
+- Chat has real toggle switches now instead of a checkbox, and more breathing room throughout
+- New save account option when creating a chat account, skip the password next time on this device
+- Chat now supports image and gif attachments, still end to end encrypted in password protected rooms
+- Sent messages appear instantly instead of waiting on a round trip, then quietly sync in the background with no flash
+- Added read receipts and profile pictures to chat
+- New My rooms tab in chat, alongside Public rooms
+- The assistant no longer pastes raw scraped page text back at you, it answers in its own words
+- Image generation leads with the better model again, the other one is only a fallback now
+- Image prompts are steered toward original art direction, less likely to get filtered
+- Small speed tweaks to how fast the assistant starts responding, and a stronger model now leads for reading images
+
 # 33dd55b
 
 - Chat no longer says it is local only in the header and setup screen, it syncs across devices through Supabase now
