@@ -1,3 +1,7 @@
+# 3cc87ee
+
+- Generated and found images no longer flash in half-loaded, the "Generating..." status now holds until the picture has actually finished loading, then hands off cleanly
+
 # 1de2467
 
 - Fixed image search sometimes showing fake broken links pointing at your own machine
