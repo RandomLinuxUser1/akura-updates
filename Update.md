@@ -1,3 +1,9 @@
+# b6b8606
+
+- At your request, the assistant can now change your Wisp relay server and AI model too, and can test the connection for you
+- Clear all data and Reset Akura still have no tool and never will, those stay behind their own confirmation in Settings
+- Fixed a case where a slow-resolving result, like a Wisp test, could finish after the reply was already done and silently fail to show up
+
 # ab868a1
 
 - The assistant can now open a website for you through the proxy just by asking
