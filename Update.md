@@ -1,3 +1,7 @@
+# 80d712a
+
+- Fixed generated images sometimes coming back as a solid black square for known characters, that was a content filter on the old model, switched to one that does not have that problem
+
 # b6b8606
 
 - At your request, the assistant can now change your Wisp relay server and AI model too, and can test the connection for you
