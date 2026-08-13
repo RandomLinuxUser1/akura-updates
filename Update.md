@@ -1,3 +1,10 @@
+# 4b604ca
+
+- New Akura Chat, a place to talk with other users, separate from the assistant
+- Create an account with a username and password, everything is tied to a real cryptographic identity
+- Chat in public rooms, or make a password protected room that is end to end encrypted, only people with the password can read it
+- For now this only lives on this device, a shared version is coming later
+
 # 80d712a
 
 - Fixed generated images sometimes coming back as a solid black square for known characters, that was a content filter on the old model, switched to one that does not have that problem
