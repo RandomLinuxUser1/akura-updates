@@ -1,3 +1,9 @@
+# ab868a1
+
+- The assistant can now open a website for you through the proxy just by asking
+- It can also change settings for you: mode, theme, ad blocking, remote favicons, saving history, hiding the top bar, the animated background
+- It will never change your Wisp relay server itself, that always has to be entered by you, it will just open Proxy settings so you can
+
 # 3cc87ee
 
 - Generated and found images no longer flash in half-loaded, the "Generating..." status now holds until the picture has actually finished loading, then hands off cleanly
