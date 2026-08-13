@@ -1,3 +1,9 @@
+# 7bf891e
+
+- Akura Chat now actually syncs across devices, accounts, rooms and messages live in the cloud instead of only on this device
+- Messages in a room now arrive live for everyone in it, no refresh needed
+- Password protected rooms are still end to end encrypted, the server only ever sees the locked content
+
 # 4b604ca
 
 - New Akura Chat, a place to talk with other users, separate from the assistant
