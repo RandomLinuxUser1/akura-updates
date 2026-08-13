@@ -1,3 +1,7 @@
+# 33dd55b
+
+- Chat no longer says it is local only in the header and setup screen, it syncs across devices through Supabase now
+
 # 7bf891e
 
 - Akura Chat now actually syncs across devices, accounts, rooms and messages live in the cloud instead of only on this device
