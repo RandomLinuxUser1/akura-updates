@@ -1,3 +1,8 @@
+# 1de2467
+
+- Fixed image search sometimes showing fake broken links pointing at your own machine
+- The assistant no longer explains that images will appear, it just answers
+
 # bc16a6a
 
 - Fixed the assistant sometimes not using its tools at all, one slow model could quietly kill the whole attempt, it now tries the others properly
