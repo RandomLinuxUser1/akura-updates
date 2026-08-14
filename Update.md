@@ -1,3 +1,10 @@
+# ed3b66a
+
+- Closed a hole where right-clicking the password screen could skip the password entirely
+- Chat no longer lets the message box slide off the bottom once a conversation gets long; the messages scroll instead
+- Cleaned up chat on phones so the message box has room and messages use the full width
+- The music player now follows your theme and accent colour instead of always being dark
+
 # 23db7d8
 
 - Music has a source picker now: switch between Akura Music and SoundCloud right in the sidebar
