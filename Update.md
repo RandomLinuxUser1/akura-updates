@@ -1,3 +1,12 @@
+# e3db3c4
+
+- Changing your profile picture now updates it live everywhere it shows up, not just after a reload
+- Chat got a real visual pass: glowing avatars, room icons, hover lift on room rows, and shadowed gradient message bubbles instead of flat plain ones
+
+# 0675835
+
+- Fixed the right click menu on your own rooms getting covered by the general Akura menu, rename and delete were there, just hidden underneath it
+
 # 217e6ec
 
 - The changelog now loads through Akura's own server instead of going straight to GitHub, so it still works on networks that block GitHub itself
