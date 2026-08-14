@@ -1,3 +1,9 @@
+# 0867230
+
+- You can now turn on notifications for a whole room, not just DMs and mentions
+- Tap the bell in a room's header to get notified for every new message in it
+- Private rooms notify without showing the message text, since it stays encrypted
+
 # ed3b66a
 
 - Closed a hole where right-clicking the password screen could skip the password entirely
