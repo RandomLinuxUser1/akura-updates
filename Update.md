@@ -1,3 +1,7 @@
+# f244131
+
+- The assistant now knows your actual local date and time, resolved from your IP, not just a server clock
+
 # 10b1296
 
 - The assistant now always knows the real current date, instead of leaning on its own training data or guessing
