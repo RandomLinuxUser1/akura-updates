@@ -1,3 +1,7 @@
+# c73152c
+
+- Fixed genuine, correctly signed messages in private rooms and every DM always showing as unverified
+
 # 34a2d12
 
 - Fixed the close button on the room and profile popups sitting way off from the actual card
