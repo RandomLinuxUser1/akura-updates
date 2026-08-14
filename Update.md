@@ -1,3 +1,12 @@
+# b7f44ba
+
+- Akura Chat is a full rebuild now: a persistent sidebar with Friends, Direct Messages and Rooms, next to the actual conversation, instead of separate full page screens
+- Added friends, send and accept requests, remove a friend, see who is pending
+- Added real direct messages, end to end encrypted with an actual key exchange between the two people, not just a room password
+- Added bios to profiles
+- Type a colon and a word like fire to get emoji suggestions, click one or just send it and it turns into the real emoji
+- Added a gif picker with a favorites tab next to the message box
+
 # e3db3c4
 
 - Changing your profile picture now updates it live everywhere it shows up, not just after a reload
