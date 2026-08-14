@@ -1,3 +1,8 @@
+# 7b2f1ff
+
+- Music now runs on SoundCloud only, the source picker is gone
+- Custom playlists no longer have a colored icon, only Liked Songs does
+
 # 918990a
 
 Updated Akura Music UI to be a bit nicer
