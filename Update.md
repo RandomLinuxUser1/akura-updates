@@ -1,3 +1,9 @@
+# 23db7d8
+
+- Music has a source picker now: switch between Akura Music and SoundCloud right in the sidebar
+- SoundCloud gets you its own search, trending and full-length playback
+- New download button on the player saves the song you're listening to, from either source
+
 # 9a74c0f
 
 - Music actually loads and plays again: it now tries a whole list of sources instead of the one that was down, and plays full songs, not 30 second clips
