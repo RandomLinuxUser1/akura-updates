@@ -1,3 +1,11 @@
+# 34a2d12
+
+- Fixed the close button on the room and profile popups sitting way off from the actual card
+- Fixed a huge gap opening up between your messages and theirs in a wide chat window
+- Room, DM and friend lists in the sidebar could go permanently blank if anything hiccuped loading them, now they only ever update once the new list is actually ready
+- Gifs now show a star on hover to favorite them
+- Fixed DMs failing to start for accounts that were signed in from a saved session created before DMs existed
+
 # b7f44ba
 
 - Akura Chat is a full rebuild now: a persistent sidebar with Friends, Direct Messages and Rooms, next to the actual conversation, instead of separate full page screens
