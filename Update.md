@@ -1,3 +1,7 @@
+# 217e6ec
+
+- The changelog now loads through Akura's own server instead of going straight to GitHub, so it still works on networks that block GitHub itself
+
 # 26993b5
 
 - Fixed images and gifs in chat sitting way off to one side instead of next to your avatar
