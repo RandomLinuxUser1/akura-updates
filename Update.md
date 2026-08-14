@@ -1,3 +1,14 @@
+# bc03bf4
+
+- Music now talks to its source directly instead of everything going through Akura's server, so songs start quicker and no longer share one relay with everyone else
+- If your network blocks it outright, it quietly falls back to the old way
+
+# 86d36bd
+
+- Akura Music plays whole songs now instead of cutting off after a 30 second preview
+- Songs, charts and cover art come from Monochrome instead of Deezer, and seeking works anywhere in a track
+- Playlists saved before this update will need their songs added again, the old ones cannot be looked up
+
 # 3c31d83
 
 - New Akura Music: search real songs, browse the charts, actually listen, and build local playlists
