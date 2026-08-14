@@ -1,3 +1,10 @@
+# 26993b5
+
+- Fixed images and gifs in chat sitting way off to one side instead of next to your avatar
+- The empty chat screen now shows fresh AI generated example prompts instead of the same four every time
+- If you own a room, you can open it again without retyping the password, and you can rename it, change its password, or delete it from a right click menu or the room settings button
+- Nearly the entire games library was missing its thumbnail, found and fixed the real cause, most games should show a real picture now instead of a plain tile
+
 # f244131
 
 - The assistant now knows your actual local date and time, resolved from your IP, not just a server clock
