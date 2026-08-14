@@ -1,3 +1,8 @@
+# ae165fe
+
+- New AI personality picker in Settings > AI: Coding Buddy, Teacher, Schoolwork Agent, Tsundere, or Work Agent
+- Each personality is genuinely different, not the same prompt with a different name on it
+
 # 7b2f1ff
 
 - Music now runs on SoundCloud only, the source picker is gone
