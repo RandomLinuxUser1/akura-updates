@@ -1,3 +1,10 @@
+# 10b1296
+
+- The assistant now always knows the real current date, instead of leaning on its own training data or guessing
+- Search and page results are stamped with when they were actually fetched, so recency is not a guess either
+- Sharper image reading, attachments keep more detail before being sent, and it now reads exact text and counts instead of estimating
+- It will say when part of an image is too small or blurry to be sure about instead of guessing
+
 # 63fe716
 
 - Fixed a real bypass: reaching Settings during the split second before load finished and hitting back to Akura skipped the password entirely
