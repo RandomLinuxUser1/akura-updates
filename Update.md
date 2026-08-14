@@ -1,3 +1,9 @@
+# 9a74c0f
+
+- Music actually loads and plays again: it now tries a whole list of sources instead of the one that was down, and plays full songs, not 30 second clips
+- Seeking works anywhere in a track, and a dead source no longer freezes playback
+- Client code now carries an extra scrambling layer on top of the existing obfuscation
+
 # bc03bf4
 
 - Music now talks to its source directly instead of everything going through Akura's server, so songs start quicker and no longer share one relay with everyone else
