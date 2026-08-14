@@ -1,3 +1,17 @@
+# 3c31d83
+
+- New Akura Music: search real songs, browse the charts, actually listen, and build local playlists
+- Clicking Music now opens the new app instead of a list of outside sites
+
+# f2ec738
+
+- Added online, idle, do not disturb and invisible status, and profile banners
+- Added notifications for DMs and pings, opt in from your profile
+
+# d4d678c
+
+- Chat error messages now say what actually went wrong instead of a generic failure, this is what made a stale account bug hard to track down
+
 # c73152c
 
 - Fixed genuine, correctly signed messages in private rooms and every DM always showing as unverified
