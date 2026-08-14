@@ -1,3 +1,7 @@
+# 918990a
+
+Updated Akura Music UI to be a bit nicer
+
 # 0867230
 
 - You can now turn on notifications for a whole room, not just DMs and mentions
