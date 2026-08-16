@@ -1,3 +1,7 @@
+# 565cecd
+
+- Added AkuraOS! Experimental, but it's pretty good — also did some more updates to server-sided stuff
+
 # ae165fe
 
 - New AI personality picker in Settings > AI: Coding Buddy, Teacher, Schoolwork Agent, Tsundere, or Work Agent
